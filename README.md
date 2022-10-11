@@ -11,10 +11,15 @@ To continue to help Louise plan her campaign, we need to be more specific with o
 ### Analysis of Outcomes Based on Launch Date
 The Outcome Based on Launch Date multiline graph displays the number of theater campaigns’ outcomes each month over seven years. There are three different Kickstarter outcomes: successful (orange), failed (yellow), and canceled (green). We can determine that campaigns that launch their fundraiser over the summer have a higher success rate. Specifically, launching a theater campaign in May had the most effective success rate of 67%. On the other hand, campaigns that launch their campaign towards the end of the year have a higher failure rate. For example, launching a theater campaign in December had the highest fail rate of 51%. During October, there were no canceled campaigns recorded, which does not seem to significantly impact the data. We can draw conclusions about the best and worst possible time to launch a campaign by analyzing the visual trends.
 
+![image](https://user-images.githubusercontent.com/92180070/195206817-34cb0e4e-0319-46c7-bf97-30b6cefe939c.png)
+
 
 ### Analysis of Outcomes Based on Goals
 The Outcome Based on Goal multiline graph displays the percentage of theater campaign outcomes based on the monetary fundraising goal. There are three different outcomes: successful (brown), failed (green), and canceled (orange). Unfortunately, no data collected had a fundraising goal between $35,000 and $39,000.
 We can determine that campaigns with a fundraising goal of less than $15,000 have a higher success rate. Specifically, campaigns with a goal of less than 5000 had the highest average success rate of 75%. Even though the chart displays that fundraising goals between $45,000 to $49,999 had a 100% success rate, I believe it is an outlier in the data set that should be disregarded in this analysis. On the other hand, fundraiser goals that is more than $20,000 have a higher percentage of failing. Therefore, based on the data provided, we can conclude that smaller fundraising goals have a higher chance of succeeding.
+
+![image](https://user-images.githubusercontent.com/92180070/195206782-d736df91-def1-4281-936c-8064d96c6b72.png)
+
 
 
 ### Challenges and Difficulties Encountered
